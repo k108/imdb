@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MovieBuffs</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="proceed_to_youtube">Proceed To YouTube...</string>
+    <string name="watch_trailer">Watch Trailer</string>
+
+</resources>

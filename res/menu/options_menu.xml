@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/nowplyng" android:title="NOW PLAYING"></item>
+    <item android:id="@+id/tprtd" android:title="TOP RATED"></item>
+    <item android:id="@+id/upcmg" android:title="UPCOMING"></item>
+    
+
+</menu>
